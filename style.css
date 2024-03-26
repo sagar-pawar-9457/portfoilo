@@ -494,7 +494,7 @@ ul li ,a {
     margin-top: 2rem;
     height: 250px;
     width: 250px;
-    background-image: url(/images/project1.jpg.png);
+    background-image: url(./images/project1.jpg.png);
     background-repeat: no-repeat;
     background-size: cover; 
     background-position: center; 
@@ -507,7 +507,7 @@ ul li ,a {
     margin-top: 2rem;
     height: 250px;
     width: 250px;
-     background-image: url(/images/projec2.jpg.png);
+     background-image: url(./images/projec2.jpg.png);
     background-repeat: no-repeat;
     background-size:100% 100%; 
     background-position: center; 
